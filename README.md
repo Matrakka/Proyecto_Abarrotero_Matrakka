@@ -17,7 +17,6 @@ Abasto integral de abarrotes al mayoreo y menudeo para el comercio de la Ciudad 
 
 - **Teléfono:** 55 2893 6379
 - **Correo:** proyectomatrakka@gmail.com
-- **Dirección:** Calle Pochtecas 94, Int. 3, Col. Central de Abasto, Iztapalapa, C.P. 09040, Ciudad de México
 
 ## Archivos del sitio
 
